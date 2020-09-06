@@ -1,0 +1,40 @@
+body, html {
+    margin: 0;
+}
+
+body {
+    color: grey;
+    background: lightblue;
+    text-align: center;
+    font-family: "Segoe UI",Frutiger,"Frutiger Linotype","Dejavu Sans","Helvetica Neue",Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1 {
+    background: purple;
+    font-size:100px;
+    font-family: "Arial Rounded MT Bold","Helvetica Rounded",Arial,sans-serif;
+}
+
+h2 {
+    display: none;
+}
+
+p {
+    line-height: 22px;
+    width: 50%;
+    margin: 50px auto;
+}
+
+a {
+    color: lightblue;
+    background: white;
+    text-decoration: none;
+    padding: 1px 3px 1px 3px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+a:hover {
+    background: blue;
+}
